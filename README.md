@@ -53,4 +53,4 @@ YourRepoName/
 
 ---
 
-📌 **Deadline:**  **11th october, 11:59 pm**
+📌 **Deadline:**  **13th october, 11:59 pm**
